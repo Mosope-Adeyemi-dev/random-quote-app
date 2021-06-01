@@ -34,7 +34,7 @@ app.get("/quotes", (request, response) => {
                     "port": null,
                     "path": "/images/search?q=" + author + "&count=1",
                     "headers": {
-                        "x-rapidapi-key": "2bd881f317msh1b17d98c193666bp10b8ddjsnca443606fba3",
+                        "x-rapidapi-key": "[YOUR API KEY HERE]",
                         "x-rapidapi-host": "bing-image-search1.p.rapidapi.com",
                         "useQueryString": true
                     }
